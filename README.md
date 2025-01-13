@@ -13,6 +13,8 @@ _from: https://www.youtube.com/watch?v=FBP9k6W48vM&list=PLjLqixML5B8MlwxMsTRVhjl
 
 </header>
 
+![image](https://github.com/user-attachments/assets/08383be7-79ed-4b96-9fac-39f5d2864bcb)
+
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
