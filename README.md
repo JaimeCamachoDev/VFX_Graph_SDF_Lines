@@ -7,8 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Hologram VFX lines
+# VFX lines Hologram
 
+_VFX Graph in Unity 6,SDF Lines_
 _from: https://www.youtube.com/watch?v=FBP9k6W48vM&list=PLjLqixML5B8MlwxMsTRVhjlxkMIdAuYgg_
 
 </header>
