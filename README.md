@@ -1,5 +1,8 @@
 <header>
 
+  
+![VFX_2025-02-18_078-min](https://github.com/user-attachments/assets/6c1e9c35-e059-4db6-9531-4f21a520c16e)
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
